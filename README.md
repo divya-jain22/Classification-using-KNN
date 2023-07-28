@@ -9,4 +9,4 @@ Gender classification is a fundamental problem in machine learning and natural l
    
 2. Edit the feature columns, label column, and other parameters.
    
-3.Run the Classification.py script to train the k-NN model and perform gender classification.
+ 3.Run the Classification.py script to train the k-NN model and perform gender classification.
