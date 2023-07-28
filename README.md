@@ -5,6 +5,8 @@ Gender classification is a fundamental problem in machine learning and natural l
 
 **Usage**
 
-Prepare your dataset in CSV format with the required features and labels.
-Edit the feature columns, label column, and other parameters.
-Run the Classification.py script to train the k-NN model and perform gender classification.
+1. Prepare your dataset in CSV format with the required features and labels.
+   
+2. Edit the feature columns, label column, and other parameters.
+   
+3.Run the Classification.py script to train the k-NN model and perform gender classification.
